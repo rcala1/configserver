@@ -1,7 +1,4 @@
-my:
-   greeting: Hello World from config server
-   list: 
-      values: One, Two, Three, Four
+measurement: C
 
 db:
    connection: connection-string-here-from-config-server
